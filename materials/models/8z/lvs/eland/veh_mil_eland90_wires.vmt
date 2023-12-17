@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "models\8z\lvs\eland\veh_mil_eland90_wires_C"
+	"$bumpmap" "models\8z\lvs\eland\veh_mil_eland90_wires_N"
+	"$halflambert" "1"				
+	"$nocull" 1		
+	"$PhongAlbedoTint" "1"		
+
+}
